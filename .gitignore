@@ -1,0 +1,7 @@
+*.pyc
+*.spec
+build/*
+dist/*
+help/*
+modules/*
+output/*
